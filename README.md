@@ -1,7 +1,5 @@
-# BlinkIt-Sales-Analysis
+# BlinkIt-Sales-Analysis using Power BI
 Data analysis and visualization of BlinkIt sales to uncover trends, top-performing products, customer preferences, and revenue insights using Power BI.
-
-# BlinkIt Sales Analysis Report
 
 ## 📊 Project Overview
 
